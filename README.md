@@ -19,8 +19,7 @@ delay(1000);
 }
 ```
 
-### Nota
-La salida 13 ha de ir al ánodo del led, y el cátodo a Ground. Esto es importante ya que el led tiene polaridad.
+#### Nota: La salida 13 ha de ir al ánodo del led, y el cátodo a Ground. Esto es importante ya que el led tiene polaridad.
 
 
 
