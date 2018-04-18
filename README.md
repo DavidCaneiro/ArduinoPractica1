@@ -4,7 +4,7 @@
 - Una protoboard (investiga cómo funcionan las placas protoboads)
 - Una placa Arduino (por ejemplo la R3) 
 ## Esquema
-!(Practica_1.png)
+![](Practica_1.png)
 ## Código
 ```
 int led = 13;
