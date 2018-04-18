@@ -1,4 +1,5 @@
 # Práctica 1 - Encender y apagar un led
+En esta primera práctica, conectaremos un led, haciendo que este se encienda y se pagague cada segundo.
 ## Componentes necesarios
 - Un led (luz de color rojo)
 - Una protoboard (investiga cómo funcionan las placas protoboads)
